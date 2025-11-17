@@ -14,10 +14,9 @@ Clean & organized tables for analytics
 | **ETL**             | Python, Pandas                      |
 | **Database**        | PostgreSQL, SQLAlchemy              |
 | **Modeling**        | Star Schema, Medallion Architecture |
-| **Analytics**       | Power BI (Coming Soon)              |
-| **Version Control** | GitHub                              |
 
 Features
+
 1️⃣ Bronze Layer
 
 Loads raw fertility cycle dataset (cycledata.csv)
